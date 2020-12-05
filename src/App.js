@@ -42,6 +42,11 @@ const info = [
     kind:"Samsung",
     phone:"Samsung j5"
   },
+  {
+    id:7,
+    kind:"htc",
+    phone:"htc pro"
+  },
 
 
 
